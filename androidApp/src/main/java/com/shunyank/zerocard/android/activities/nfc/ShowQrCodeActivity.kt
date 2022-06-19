@@ -49,7 +49,7 @@ class ShowQrCodeActivity : AppCompatActivity(){
 
     fun getQrCodeBitmap(url: String): Bitmap {
         val size = 512 //pixels
-        val qrCodeContent = "https://sampatsharma.com/zerocard"
+        val qrCodeContent = url
         val hints = hashMapOf<EncodeHintType, Int>().also { it[EncodeHintType.MARGIN] = 1 } // Make the QR code buffer border narrower
         val bits = QRCodeWriter().encode(qrCodeContent, BarcodeFormat.QR_CODE, size, size)
         return Bitmap.createBitmap(size, size, Bitmap.Config.RGB_565).also {
