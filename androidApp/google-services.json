@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076206595057",
+    "project_id": "zerocard",
+    "storage_bucket": "zerocard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076206595057:android:1f84db3b8324d731c7f250",
+        "android_client_info": {
+          "package_name": "com.shunyank.zerocard.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076206595057-20bejoginpjvtoh6enca78s4e1jtrnsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shunyank.zerocard.android",
+            "certificate_hash": "61ab7a8d3dfb63f9398455b1157eccb0ff176eb7"
+          }
+        },
+        {
+          "client_id": "1076206595057-ba0q56gamjjrigbapl6gtatimgbmi943.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdQUbUPwrKnbdQnQ52gJaIrXgKDJtxEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076206595057-ba0q56gamjjrigbapl6gtatimgbmi943.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeroCard</string>
+    <string name="Login">Login</string>
+    <string name="login_signup_with_one_click">Login/Signup with one click</string>
+    <string name="back_button_description">Back Button</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="login_screen_text">Share Your Business Card In\nOne Touch</string>
+    <string name="your_web_client_id">1076206595057-ba0q56gamjjrigbapl6gtatimgbmi943.apps.googleusercontent.com</string>
+    <string name="cards_not_found">Card Not Found</string>
+    <string name="click_to_add">Click \"Add Business Card\" To Add New Business Card</string>
+    <string name="AddCard">Add Card</string>
+    <string name="write_nfc_card">Write NFC Tag</string>
+    <string name="logout">Logout</string>
+
+</resources>
